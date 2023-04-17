@@ -1,0 +1,9 @@
+{
+  "name": "RestAPI_Node_Express_Typescript_Mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
